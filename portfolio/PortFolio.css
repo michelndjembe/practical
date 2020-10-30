@@ -1,0 +1,34 @@
+body{
+    
+    border: 0;
+    margin: 0;
+}
+section{
+    float: left;
+    margin: 25%;
+    border:double 2px rgb(8, 8, 8);
+    height: 400px;
+    width:400px ;
+    padding: 10px;
+}
+ul{
+    padding-left: 0;
+    list-style-type: none;
+}
+#text{
+    float:left;
+    background-color: lightslategrey;
+    height: 100px;
+    width:300px ;
+}
+
+img{
+    float: left;
+    position: ;
+    height: 100px;
+    width: 100px;
+    clear: both;
+}
+label{
+    clear: both;
+}

@@ -1,0 +1,43 @@
+*{
+    border: 0px;
+    padding: 0px;
+}
+figure{
+    padding: 25%;
+    border: 2px;
+    color: green;
+
+}
+#profilePicture{
+    border: solid 5px;
+    border-color: rgb(108, 277, 53);
+    border-radius: 25%;
+    
+    width:40%;
+    height: 40%;
+}
+figcaption{
+    font-style:bolder ;
+    font-size: 20px;
+    font-family:Edwardian Script ITC;
+}
+
+nav{
+    width: 100%;
+    position: fixed;
+}
+
+nav ul li{
+    float: left;
+    width: 25%;
+    background-color: black;
+}
+
+ul li a{
+    display: block;
+    text-decoration: none;
+}
+
+a:hover{ 
+    background-color: lightslategrey;
+}

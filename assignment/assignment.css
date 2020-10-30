@@ -1,0 +1,40 @@
+body{
+	border:0;
+	margin: 0;
+	padding: 0;
+	background-color: grey;
+
+}
+img{
+
+	border: solid 0;
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+
+}
+
+div{
+	border: solid 5px white;
+	margin:25% 25% 25% 25%;
+	height: 300px;
+	width: 300px;
+	text-align: justify;
+	text-decoration: blink;
+	background-color: lightgrey;
+}
+strong{
+	font-family: Algerian;
+	text-align: center;
+
+}
+span{
+	text-align: justify-all;
+	margin:15px 50px 15px 60px;
+
+}
+
+i{
+	font-size: 18px;
+	font-family:Footlight MT Light;
+}
